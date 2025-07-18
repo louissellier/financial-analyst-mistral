@@ -28,8 +28,7 @@ Whether you're comparing company performance, analyzing trends, or investigating
 ## 💬 Example Prompts
 
 - "Compare Meta and Amazon’s stock trends over the last year"
-- "Analyze Tesla’s price movement and trading volume this quarter"
-- "Summarize Nvidia’s stock behavior after their last earnings call"
+- "Plot Tesla's stock performance from 2022-01-15 to 2024-07-11"
 
 **Advanced Example:**
 

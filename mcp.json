@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "financial-analyst": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/path/to/financial-analyst-mistral",
+                "run",
+                "server.py"
+            ]
+        }
+    }
+  }
